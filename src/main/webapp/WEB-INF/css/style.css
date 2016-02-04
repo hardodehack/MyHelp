@@ -1,0 +1,77 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+
+
+body{
+	margin: 0;
+	padding: 0;
+	
+}
+
+
+h1 {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	font-size: 40px;
+
+}
+.title {
+	padding-top: 20px;
+}
+
+h2 {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+
+}
+
+h3 {
+	font-family: "Lato", sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+}
+
+p
+{
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+
+}
+
+
+.centered {
+	width: 100%;
+	text-align: center;
+	position:relative;
+	vertical-align: middle;
+
+}
+
+.control {
+	width: 500px;
+	height: 250px;
+	position: absolute;
+	left: 50%; 
+	top: 50%;
+	margin-left: -250px;
+	margin-top: -125px;
+}
+
+.formarea {
+	width: 100vw;
+	// background-color: gray;
+}
+
+.container {
+	width: 860px;
+	position:relative;
+	margin: 0 auto;
+	// background-color: aqua;
+	
+}
+.back {
+	padding-left: 50px;
+	padding-top: 50px;
+	
+}
